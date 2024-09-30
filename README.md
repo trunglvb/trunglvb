@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/trunglvb.hust) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/levubaotrung) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/levubaotrung) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,postgres,mongo,github,git,vitest&theme=dark)](https://skillicons.dev)
